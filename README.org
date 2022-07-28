@@ -1,0 +1,3 @@
+* zdsl
+Pronounced "zid-zuhl". I am tired of constantly re-implementing simple data structures in C, I would rather have my own library of personal data structures I can pull in at whim, or at least reference.
+** Dynamic arrays (C++ vectors)
